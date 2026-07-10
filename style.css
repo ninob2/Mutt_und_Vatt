@@ -1,1 +1,94 @@
+* {
+  box-sizing: border-box;
+}
 
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  background: #f5f6f4;
+  color: #222;
+}
+
+header {
+  padding: 2rem 1.5rem 1rem;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+.subtitle {
+  color: #666;
+  margin-top: 0.3rem;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  padding: 0 1rem 1rem;
+}
+
+.filter-btn {
+  border: 1px solid #ccc;
+  background: white;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.filter-btn.active {
+  background: #2f6f4f;
+  color: white;
+  border-color: #2f6f4f;
+}
+
+#map {
+  height: 350px;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto 1.5rem;
+  border-radius: 8px;
+}
+
+.tour-list {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem 3rem;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+
+.tour-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+.tour-card h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.05rem;
+}
+
+.tour-card .meta {
+  color: #666;
+  font-size: 0.85rem;
+  margin-bottom: 0.6rem;
+}
+
+.tour-card a {
+  color: #2f6f4f;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.tour-card a:hover {
+  text-decoration: underline;
+}
