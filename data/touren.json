@@ -1,1 +1,26 @@
-
+[
+  {
+    "titel": "Rundweg Haugesund Küste",
+    "url": "https://www.komoot.de/tour/DEIN-LINK-HIER",
+    "kategorie": "spaziergang-nah",
+    "distanz_km": 5.2,
+    "lat": 59.4136,
+    "lng": 5.2680
+  },
+  {
+    "titel": "Bergpass-Tour Sunnhordland",
+    "url": "https://www.komoot.de/tour/DEIN-LINK-HIER",
+    "kategorie": "radfahren-lang",
+    "distanz_km": 85,
+    "lat": 59.7500,
+    "lng": 5.6000
+  },
+  {
+    "titel": "Feierabendrunde",
+    "url": "https://www.komoot.de/tour/DEIN-LINK-HIER",
+    "kategorie": "radfahren-kurz",
+    "distanz_km": 18,
+    "lat": 59.4100,
+    "lng": 5.2600
+  }
+]
