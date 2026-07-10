@@ -1,26 +1,198 @@
 [
   {
-    "titel": "Rundweg Haugesund Küste",
-    "url": "https://www.komoot.de/tour/DEIN-LINK-HIER",
-    "kategorie": "spaziergang-nah",
-    "distanz_km": 5.2,
-    "lat": 59.4136,
-    "lng": 5.2680
+    "titel": "Hermsdorfer See – Radweg entlang des Tegeler Fließes Runde von Hermsdorf",
+    "url": "https://www.komoot.com/de-de/tour/3068053933?share_token=aMyr3DZHDITHgOjoMcskMaLIVr139iSd1daMlhbnYv5jJoejf4",
+    "kategorie": "aus-dem-haus-geradelt",
+    "distanz_km": 17.9,
+    "dauer": "01:08",
+    "hoehenmeter": 80,
+    "lat": 52.623056,
+    "lng": 13.319361
   },
   {
-    "titel": "Bergpass-Tour Sunnhordland",
-    "url": "https://www.komoot.de/tour/DEIN-LINK-HIER",
-    "kategorie": "radfahren-lang",
-    "distanz_km": 85,
-    "lat": 59.7500,
-    "lng": 5.6000
+    "titel": "Asphaltierter Forstweg – Berliner Mauerweg Runde von Hermsdorf",
+    "url": "https://www.komoot.com/de-de/tour/3068054863?share_token=arjEct7xF8v7utkGRlO6St3xpE2FMwGfIUTWRZ4laITRBmDhye",
+    "kategorie": "aus-dem-haus-geradelt",
+    "distanz_km": 38.3,
+    "dauer": "02:29",
+    "hoehenmeter": 130,
+    "lat": 52.623056,
+    "lng": 13.319361
   },
   {
-    "titel": "Feierabendrunde",
-    "url": "https://www.komoot.de/tour/DEIN-LINK-HIER",
-    "kategorie": "radfahren-kurz",
-    "distanz_km": 18,
-    "lat": 59.4100,
-    "lng": 5.2600
+    "titel": "Lübarser Felder – Mauerweg bei Lübars Runde von Hermsdorf",
+    "url": "https://www.komoot.com/de-de/tour/3068052927?share_token=a0vSf1CCqTkBXnISfaWHblDh1F3grBU4P2S6Esb4D8OC6R2ugo",
+    "kategorie": "aus-dem-haus-geradelt",
+    "distanz_km": 14.4,
+    "dauer": "00:55",
+    "hoehenmeter": 70,
+    "lat": 52.623056,
+    "lng": 13.319361
+  },
+  {
+    "titel": "Radweg nach Schönwalde-Dorf – Radweg am Havelkanal Runde von Frohnau",
+    "url": "https://www.komoot.com/de-de/tour/3068051838?share_token=aY70V2XV0Ftp6so6sT9EUgAjyLGP8s7FiQdrfwkPDU8YIBnADh",
+    "kategorie": "aus-dem-haus-geradelt",
+    "distanz_km": 49.6,
+    "dauer": "02:54",
+    "hoehenmeter": 100,
+    "lat": 52.623056,
+    "lng": 13.319361
+  },
+  {
+    "titel": "Radweg entlang des Tegeler Fließes – Hermsdorfer See Runde von Hermsdorf",
+    "url": "https://www.komoot.com/de-de/tour/3068019726?share_token=aRazSEP201wPPaHBpUMISknwwqhaXb3kx9jXE4L7RGVnI628rD",
+    "kategorie": "aus-dem-haus-geradelt",
+    "distanz_km": 12.3,
+    "dauer": "00:52",
+    "hoehenmeter": 50,
+    "lat": 52.623056,
+    "lng": 13.319361
+  },
+  {
+    "titel": "Radweg am Havelufer – View of the Havel Runde von Frohnau",
+    "url": "https://www.komoot.com/de-de/tour/3068019004?share_token=aifExvD4F2373aIFrlXWe6gs48uGkzoBb52aO74PFpLeQymk3J",
+    "kategorie": "aus-dem-haus-geradelt",
+    "distanz_km": 34.0,
+    "dauer": "02:00",
+    "hoehenmeter": 100,
+    "lat": 52.623056,
+    "lng": 13.319361
+  },
+  {
+    "titel": "Mauerweg bei Lübars – Lübarser Felder Runde von Hermsdorf",
+    "url": "https://www.komoot.com/de-de/tour/3068016902?share_token=aYCXlX6w7GIuxGAtlkeuwfFb84lgzqaezR4EgW8okWi9fhpnhm",
+    "kategorie": "aus-dem-haus-geradelt",
+    "distanz_km": 18.9,
+    "dauer": "01:11",
+    "hoehenmeter": 90,
+    "lat": 52.623056,
+    "lng": 13.319361
+  },
+  {
+    "titel": "Berliner Mauerweg – Mauerweg Runde von Hermsdorf",
+    "url": "https://www.komoot.com/de-de/tour/3068014976?share_token=as6umhRgD65lzQuJ4q8XmONLg289dXxLCW5gjOTFIk8qR24wF5",
+    "kategorie": "aus-dem-haus-geradelt",
+    "distanz_km": 29.7,
+    "dauer": "01:54",
+    "hoehenmeter": 90,
+    "lat": 52.623056,
+    "lng": 13.319361
+  }
+]
+
+[
+  {
+    "titel": "Badesee Arkenberge Runde von Blankenfelde",
+    "url": "https://www.komoot.com/de-de/tour/3068067909?share_token=aDIvM5vymLsXslih5JDPUynTdPnLy1zxKMtamlN5bf207LaWFd",
+    "kategorie": "in-der-naehe-spazieren",
+    "distanz_km": 4.08,
+    "dauer": "01:02",
+    "hoehenmeter": 10,
+    "lat": 52.632861,
+    "lng": 13.405639
+  },
+  {
+    "titel": "Blankenfelder Wiesen – Wildpferde in Blankenfelde",
+    "url": "https://www.komoot.com/de-de/tour/3068064626?share_token=aoIbZdohIZuTzS9Q8c7EdEaiGfGeebQDqFEsdtnaR1mCPgNy2f",
+    "kategorie": "in-der-naehe-spazieren",
+    "distanz_km": 10.5,
+    "dauer": "02:41",
+    "hoehenmeter": 40,
+    "lat": 52.600389,
+    "lng": 13.378417
+  },
+  {
+    "titel": "Bahnhof Berlin-Frohnau – Gipfelkreuz Ehrenpfortenberg Runde von Frohnau",
+    "url": "https://www.komoot.com/de-de/tour/3068063671?share_token=abzCqVGEznqvPLsFnXt4AqqKV2PnpT1a7pefS4Sy1p6rpOfC9Y",
+    "kategorie": "in-der-naehe-spazieren",
+    "distanz_km": 10.3,
+    "dauer": "02:39",
+    "hoehenmeter": 50,
+    "lat": 52.632056,
+    "lng": 13.287972
+  },
+  {
+    "titel": "Löwenzahn-Aussichtsplattform Runde von Mühlenbeck-Mönchmühle",
+    "url": "https://www.komoot.com/de-de/tour/3068063062?share_token=agAAgKlTAYgZEdiMTADpQ8GUB2DJ1Do19aksIplCaZM19du3c8",
+    "kategorie": "in-der-naehe-spazieren",
+    "distanz_km": 5.86,
+    "dauer": "01:30",
+    "hoehenmeter": 20,
+    "lat": 52.654,
+    "lng": 13.388333
+  },
+  {
+    "titel": "Briesetal – Aufgestaute Briese Runde von Birkenwerder",
+    "url": "https://www.komoot.com/de-de/tour/3068061716?share_token=aJ7mSXL9LDXq80W9qpXLmHrDhSdq51J2W6fLUzy816CB1qWsy0",
+    "kategorie": "in-der-naehe-spazieren",
+    "distanz_km": 7.74,
+    "dauer": "01:59",
+    "hoehenmeter": 30,
+    "lat": 52.705111,
+    "lng": 13.299972
+  },
+  {
+    "titel": "Mühlenbecker See – Schloss Dammsmühle Runde von Mühlenbecker Land",
+    "url": "https://www.komoot.com/de-de/tour/3068058643?share_token=aqs3S7NU2T35khNItn2J6Ak6dBOetuLctJj0Cm6EferNoDSU3O",
+    "kategorie": "in-der-naehe-spazieren",
+    "distanz_km": 10.0,
+    "dauer": "02:36",
+    "hoehenmeter": 60,
+    "lat": 52.68775,
+    "lng": 13.369972
+  }
+]
+
+[
+  {
+    "titel": "Havelhöhenweg",
+    "url": "https://www.komoot.com/de-de/tour/35798307",
+    "kategorie": "tagestouren",
+    "distanz_km": 10.7,
+    "dauer": "02:52",
+    "hoehenmeter": 120,
+    "lat": 52.509028,
+    "lng": 13.215389
+  },
+  {
+    "titel": "Wuhletal-Wanderweg (Grüner Hauptweg 14)",
+    "url": "https://www.komoot.com/de-de/tour/411989640",
+    "kategorie": "tagestouren",
+    "distanz_km": 18.8,
+    "dauer": "03:51",
+    "hoehenmeter": 50,
+    "lat": 52.571194,
+    "lng": 13.566194
+  },
+  {
+    "titel": "Panke Wandergebiet",
+    "url": "https://www.komoot.com/de-de/highlight/1016251",
+    "kategorie": "tagestouren",
+    "distanz_km": null,
+    "dauer": null,
+    "hoehenmeter": null,
+    "lat": 52.5628800,
+    "lng": 13.3859830
+  },
+  {
+    "titel": "Von Wannsee nach Potsdam",
+    "url": "https://www.komoot.com/de-de/tour/102660851",
+    "kategorie": "tagestouren",
+    "distanz_km": 17.0,
+    "dauer": "03:37",
+    "hoehenmeter": 170,
+    "lat": 52.420778,
+    "lng": 13.176250
+  },
+  {
+    "titel": "Berlin – Die 20 grünen Hauptwege Berlins",
+    "url": "https://www.komoot.com/de-de/collection/1053975/-berlin-die-20-gruenen-hauptwege-berlins",
+    "kategorie": "berlin-erkunden",
+    "distanz_km": 329,
+    "dauer": "92:11",
+    "hoehenmeter": 910,
+    "lat": null,
+    "lng": null
   }
 ]
