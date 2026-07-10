@@ -78,10 +78,7 @@
     "hoehenmeter": 90,
     "lat": 52.623056,
     "lng": 13.319361
-  }
-]
-
-[
+  },
   {
     "titel": "Badesee Arkenberge Runde von Blankenfelde",
     "url": "https://www.komoot.com/de-de/tour/3068067909?share_token=aDIvM5vymLsXslih5JDPUynTdPnLy1zxKMtamlN5bf207LaWFd",
@@ -141,10 +138,7 @@
     "hoehenmeter": 60,
     "lat": 52.68775,
     "lng": 13.369972
-  }
-]
-
-[
+  },
   {
     "titel": "Havelhöhenweg",
     "url": "https://www.komoot.com/de-de/tour/35798307",
@@ -172,8 +166,8 @@
     "distanz_km": null,
     "dauer": null,
     "hoehenmeter": null,
-    "lat": 52.5628800,
-    "lng": 13.3859830
+    "lat": 52.56288,
+    "lng": 13.385983
   },
   {
     "titel": "Von Wannsee nach Potsdam",
