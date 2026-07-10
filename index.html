@@ -3,24 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meine Komoot Touren</title>
+  <title>Touren</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&family=Work+Sans:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 </head>
 <body>
 
-  <!-- STARTSEITE: Kategorie-Kacheln -->
+  <!-- STARTSEITE -->
   <div id="home-view">
-    <header>
-      <h1>Mutti und Vati auf großi Reisi</h1>
-      <p class="subtitle">Es sei euch gegönnt!!!</p>
+    <header class="hero">
+      <svg class="contour-bg" viewBox="0 0 800 200" preserveAspectRatio="none" aria-hidden="true">
+        <path d="M0,150 C150,100 250,180 400,130 C550,80 650,160 800,110" />
+        <path d="M0,170 C150,130 250,190 400,160 C550,120 650,180 800,140" />
+        <path d="M0,120 C150,70 250,150 400,90 C550,50 650,120 800,70" />
+      </svg>
+      <span class="eyebrow">Wegweiser</span>
+      <h1>Touren</h1>
+      <p class="subtitle">Rad &amp; Fuß, vor der Tür und weiter weg</p>
     </header>
-    <div class="category-grid" id="category-grid">
-      <!-- Kacheln werden per JS erzeugt -->
-    </div>
+    <div class="category-grid" id="category-grid"></div>
   </div>
 
-  <!-- DETAILANSICHT: Karte + Liste einer Kategorie -->
+  <!-- DETAILANSICHT -->
   <div id="detail-view" class="hidden">
     <header class="detail-header">
       <button id="back-btn" class="back-btn">&larr; Zurück</button>
