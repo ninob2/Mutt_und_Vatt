@@ -9,6 +9,10 @@ body {
   color: #222;
 }
 
+.hidden {
+  display: none !important;
+}
+
 header {
   padding: 2rem 1.5rem 1rem;
   text-align: center;
@@ -24,27 +28,67 @@ header h1 {
   margin-top: 0.3rem;
 }
 
-.filters {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  justify-content: center;
-  padding: 0 1rem 1rem;
+/* Startseite: Kategorie-Kacheln */
+.category-grid {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem 3rem;
+  display: grid;
+  gap: 1rem;
 }
 
-.filter-btn {
-  border: 1px solid #ccc;
+.category-card {
   background: white;
-  padding: 0.5rem 1rem;
-  border-radius: 999px;
+  border: none;
+  border-radius: 10px;
+  padding: 1.5rem;
+  text-align: left;
   cursor: pointer;
-  font-size: 0.9rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: transform 0.1s ease;
 }
 
-.filter-btn.active {
-  background: #2f6f4f;
-  color: white;
-  border-color: #2f6f4f;
+.category-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.category-card h2 {
+  margin: 0;
+  font-size: 1.15rem;
+}
+
+.category-card .count {
+  color: #2f6f4f;
+  font-size: 0.85rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* Detailansicht */
+.detail-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.5rem 1.5rem 1rem;
+  text-align: left;
+}
+
+.detail-header h1 {
+  font-size: 1.4rem;
+  margin: 0;
+}
+
+.back-btn {
+  border: none;
+  background: none;
+  font-size: 0.95rem;
+  color: #2f6f4f;
+  cursor: pointer;
+  padding: 0.3rem 0;
 }
 
 #map {
