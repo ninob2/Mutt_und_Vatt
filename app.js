@@ -4,7 +4,6 @@ let markers = [];
 
 // Kategorie-Konfiguration: Reihenfolge, Anzeige-Name, Sonderfall (externer Link)
 const KATEGORIEN = [
-  { key: "aus-dem-haus-spaziert", label: "Aus dem Haus spaziert" },
   { key: "aus-dem-haus-geradelt", label: "Aus dem Haus geradelt" },
   { key: "in-der-naehe-spazieren", label: "In der Nähe spazieren" },
   { key: "tagestouren", label: "Tagestouren" },
